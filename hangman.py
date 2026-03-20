@@ -29,7 +29,6 @@ print(" ".join(guess))
 life = 6
 
 
-
 while "_" in guess and life > 0:
 
     letter = input("guess a letter: ")
